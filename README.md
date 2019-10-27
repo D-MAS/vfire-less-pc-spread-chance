@@ -1,6 +1,4 @@
 # vfire-less-pc-spread-chance
-Are you tired of getting burned unreasonably? Want to live out your pyromanic dreams but go up in blazes before you get any real spread? Have you died to a single ♥♥♥♥ flamelet? Then this mod is for you!
-
 How it works:
 There are 3 multipliers which all are convars, meaning this mod edit is custom and can be effectively disabled.
 vfire_pc_spread_base (0.8) : This is the base rate fire will spread to any players. 20% is not a huge reduction, but there's a slight difference and the other multipliers are far greater.
